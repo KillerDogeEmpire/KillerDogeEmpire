@@ -4,6 +4,12 @@
 <h3 align="center"><i>Writing junk code to learn how to code.</i></h3>
 <hr>
 
+<h3 align="center"><i>Keeping code efficiency at the peak.</i></h2>
+<p align="center">
+<a href="https://discord.com/users/784975534811512882"><code><img src="https://discord.c99.nl/widget/theme-2/784975534811512882.png" height="80px"></code></a>
+<a href="https://discord.com/users/1092258607388708946"><code><img src="https://discord.c99.nl/widget/theme-2/1092258607388708946.png" height="80px"></code></a>
+</p>
+
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=kotlin" />
@@ -22,3 +28,12 @@
 <p align="center">
 	PS AGAIN: This readme is a work in progress, so more things will be added.
 </p>
+
+</h1>
+
+
+<details align="center">
+<summary>GitHub Metrics</summary>
+<img src="./github-metrics.svg">
+
+</details>
