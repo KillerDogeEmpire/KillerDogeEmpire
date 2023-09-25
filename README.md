@@ -19,5 +19,6 @@
 <p align="center">
 	<img src="https://count.getloli.com/get/@KillerDogeEmpire?theme=rule34"> <br/>
 	PS: Check out my <a href="https://projects.on.fleek.co">website</a> for cool stuff. (Work in progress)
+<p align="center">
 	PS AGAIN: This readme is a work in progress, so more things will be added.
 </p>
