@@ -2386,7 +2386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Stormunblessed/storm-ext</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2434,7 +2434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowlighter/metrics</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!</div>
@@ -3108,7 +3108,7 @@ Update build.gradle.kts</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 601k out of 52.6m repositories</span>
+                                    <span class="gh">ranked 601k out of 55.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 45 stars</div>
                             </div>
@@ -3154,7 +3154,7 @@ Update build.gradle.kts</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.27m out of 52.6m repositories</span>
+                                    <span class="gh">ranked 3.27m out of 55.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3242,7 +3242,7 @@ Update build.gradle.kts</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2023, 11:55:44 (timezone Asia/Kathmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2023, 12:52:30 (timezone Asia/Kathmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
