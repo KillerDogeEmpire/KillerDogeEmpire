@@ -6,8 +6,8 @@
 
 <h3 align="center"><i>Keeping code efficiency at the peak.</i></h2>
 <p align="center">
-<a href="https://discord.com/users/784975534811512882"><code><img src="https://discord.c99.nl/widget/theme-2/784975534811512882.png" height="80px"></code></a>
-<a href="https://discord.com/users/1092258607388708946"><code><img src="https://discord.c99.nl/widget/theme-2/1092258607388708946.png" height="80px"></code></a>
+<a href="https://discord.com/users/1164209815380307978"><code><img src="https://discord.c99.nl/widget/theme-2/1164209815380307978.png" height="80px"></code></a>
+<a 
 </p>
 
 
