@@ -2478,7 +2478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Eltik/Anify</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Advanced scraping, mapping, and full-stack anime/manga/light novel application.</div>
@@ -2909,7 +2909,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.37m out of 124m users</span>
+                                    <span class="gh">ranked 5.37m out of 125m users</span>
                                 </div>
                                 <div class="text">Published 11 public repositories</div>
                             </div>
@@ -3002,7 +3002,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 227k out of 124m users</span>
+                                    <span class="gh">ranked 227k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 50 users</div>
                             </div>
@@ -3071,7 +3071,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 599k out of 68.4m repositories</span>
+                                    <span class="gh">ranked 599k out of 67.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 46 stars</div>
                             </div>
@@ -3117,7 +3117,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.35m out of 68.4m repositories</span>
+                                    <span class="gh">ranked 3.35m out of 67.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3205,7 +3205,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2023, 20:54:17 (timezone Asia/Kathmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2023, 21:56:22 (timezone Asia/Kathmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
