@@ -2415,7 +2415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uazo/cromite</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!</div>
@@ -3060,7 +3060,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 600k out of 73.9m repositories</span>
+                                    <span class="gh">ranked 600k out of 73.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 46 stars</div>
                             </div>
@@ -3106,7 +3106,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.35m out of 73.9m repositories</span>
+                                    <span class="gh">ranked 3.35m out of 73.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3194,7 +3194,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2023, 09:55:50 (timezone Asia/Kathmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Nov 2023, 10:54:33 (timezone Asia/Kathmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
