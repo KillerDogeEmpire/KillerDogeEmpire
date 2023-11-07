@@ -2367,7 +2367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lauriethefish/QuestPatcher</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generic il2cpp modding tool for Oculus Quest (1/2) apps.</div>
@@ -2869,7 +2869,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.38m out of 125m users</span>
+                                    <span class="gh">ranked 5.38m out of 124m users</span>
                                 </div>
                                 <div class="text">Published 11 public repositories</div>
                             </div>
@@ -2998,7 +2998,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 228k out of 125m users</span>
+                                    <span class="gh">ranked 228k out of 124m users</span>
                                 </div>
                                 <div class="text">Followed by 50 users</div>
                             </div>
@@ -3067,7 +3067,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 600k out of 47.7m repositories</span>
+                                    <span class="gh">ranked 600k out of 42.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 46 stars</div>
                             </div>
@@ -3113,7 +3113,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.14m out of 47.7m repositories</span>
+                                    <span class="gh">ranked 3.30m out of 42.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3201,7 +3201,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Nov 2023, 19:53:27 (timezone Asia/Kathmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Nov 2023, 20:54:14 (timezone Asia/Kathmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
