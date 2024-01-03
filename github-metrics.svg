@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3002" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2516" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            405 Commits
+                            417 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    294 MB used
+                                    295 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    14.1k added, 5.93k removed
+                                    22k added, 5.97k removed
                                 </div>
                             </section>
                             <section>
@@ -2372,7 +2372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brahmkshatriya/Echo</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extension based Android Music Player.</div>
@@ -2649,18 +2649,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Deleted
+                      branch
+                                        <span class="code">master2</span>
+                                        in
                                         <span class="repo">KillerDogeEmpire/AquaStream</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#690c66d</div>
-                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -2669,18 +2665,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Created new
+                      branch
+                                        <span class="code">master</span>
+                                        in
                                         <span class="repo">KillerDogeEmpire/AquaStream</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d2770bf</div>
-                                        <div class="message">Make it back to Aquastream</div>
                                     </div>
                                 </div>
                             </section>
@@ -2689,18 +2681,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Deleted
+                      branch
+                                        <span class="code">master</span>
+                                        in
                                         <span class="repo">KillerDogeEmpire/AquaStream</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6b177c7</div>
-                                        <div class="message">Update prerelease.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -2709,18 +2697,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Created new
+                      branch
+                                        <span class="code">master2</span>
+                                        in
                                         <span class="repo">KillerDogeEmpire/AquaStream</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5308515</div>
-                                        <div class="message">Update prerelease.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -2729,376 +2713,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 44 commits in
+                                        Deleted
+                      branch
+                                        <span class="code">for-fixing</span>
+                                        in
                                         <span class="repo">KillerDogeEmpire/AquaStream</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3c152e0</div>
-                                        <div class="message">Support showing content ratings for TmdbProvider (#705)
-
-* Support showing content ratings for TmdbProvider</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0aed5e</div>
-                                        <div class="message">bump</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#530619c</div>
-                                        <div class="message">fixes (library): reverted and updated currentPage logic (#802)
-
-Co-authored-by: Funny-Pen-7005 &lt;Funny-Pen-7005&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ef8f30</div>
-                                        <div class="message">fix from pr (#801)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d87983</div>
-                                        <div class="message">fix (library tab): save and restore tab selection (#798)
-
-Co-authored-by: Funny-Pen-7005 &lt;Funny-Pen-7005&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f3a8c1</div>
-                                        <div class="message">extractor: added vidplay and fix few extractors (#795)
-
-* extractor: added Vidplay
-
-* fix id
-
-* fix Chillx
-
-* fix Linkbox
-
-* update m3u8helper in chillx
-
-* fix Dailymotion
-
----------
-
-Co-authored-by: Sofie99 &lt;Sofie99@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfd6ce7</div>
-                                        <div class="message">chore(locales): fix locale issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88ad64b</div>
-                                        <div class="message">Merge pull request #790 from recloudstream/weblate
-
-Translations update from Hosted Weblate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cebdbd2</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25b042f</div>
-                                        <div class="message">refactor(bump): update glide module and fix regressions (#789)
-
-* upgrade glide module and glide ksp
-
-* fix glide breaking changes and regressions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fac0ef4</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7bc830</div>
-                                        <div class="message">upstream kotlin symbol processing (#788)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b170c0</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#38cc121</div>
-                                        <div class="message">Update build.gradle.kts (#797)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#951b211</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4aefc4</div>
-                                        <div class="message">bump guava, json(tests), kgp, desugaring (#781)
-
-* bump guava(for ksp)
-
-* Update build.gradle.kts
-
-* .
-
-* Update kotlin gradle plugin</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c324eaf</div>
-                                        <div class="message">Translated using Weblate (Hungarian)
-
-Currently translated at 81.5% (539 of 661 strings)
-
-Translated using Weblate (Vietnamese)
-
-Currently translated at 100.0% (661 of 661 strings)
-
-Translated using Weblate (Arabic (Levantine))
-
-Currently translated at 100.0% (661 of 661 strings)
-
-Translated using Weblate (Turkish)
-
-Currently translated at 100.0% (4 of 4 strings)
-
-Translated using Weblate (Arabic (Levantine))
-
-Currently translated at 100.0% (661 of 661 strings)
-
-Translated using Weblate (Turkish)
-
-Currently translated at 100.0% (661 of 661 strings)
-
-Co-authored-by: Gyuri Bajzik &lt;bajzikgy@gmail.com&gt;
-Co-authored-by: Hosted Weblate &lt;hosted@weblate.org&gt;
-Co-authored-by: Pizza Party &lt;paol.m@proton.me&gt;
-Co-authored-by: ngocanhtve &lt;ngocanh.tve@gmail.com&gt;
-Co-authored-by: Ömer Faruk Sancak &lt;keyiflerolsun@gmail.com&gt;
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/apc/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/hu/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/tr/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/vi/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/fastlane/tr/
-Translation: Cloudstream/App
-Translation: Cloudstream/Fastlane</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#962ff1c</div>
-                                        <div class="message">chore(locales): fix locale issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7165b57</div>
-                                        <div class="message">Merge pull request #754 from recloudstream/weblate
-
-Translations update from Hosted Weblate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e80dc63</div>
-                                        <div class="message">Translated using Weblate (Russian)
-
-Currently translated at 94.7% (626 of 661 strings)
-
-Translated using Weblate (Russian)
-
-Currently translated at 94.5% (625 of 661 strings)
-
-Translated using Weblate (Dutch)
-
-Currently translated at 100.0% (661 of 661 strings)
-
-Merge remote-tracking branch 'origin/master'
-
-Translated using Weblate (Portuguese)
-
-Currently translated at 94.8% (627 of 661 strings)
-
-Translated using Weblate (Japanese)
-
-Currently translated at 46.4% (307 of 661 strings)
-
-Translated using Weblate (Indonesian)
-
-Currently translated at 100.0% (661 of 661 strings)
-
-Translated using Weblate (Bengali)
-
-Currently translated at 36.3% (240 of 661 strings)
-
-Merge remote-tracking branch 'origin/master'
-
-Merge remote-tracking branch 'origin/master'
-
-Translated using Weblate (Slovak)
-
-Currently translated at 68.2% (451 of 661 strings)
-
-Translated using Weblate (Vietnamese)
-
-Currently translated at 99.6% (659 of 661 strings)
-
-Merge remote-tracking branch 'origin/master'
-
-Translated using Weblate (Arabic (Najdi))
-
-Currently translated at 66.5% (440 of 661 strings)
-
-Translated using Weblate (Dutch)
-
-Currently translated at 94.8% (627 of 661 strings)
-
-Translated using Weblate (Ukrainian)
-
-Currently translated at 100.0% (661 of 661 strings)
-
-Translated using Weblate (Turkish)
-
-Currently translated at 100.0% (4 of 4 strings)
-
-Translated using Weblate (French)
-
-Currently translated at 96.3% (637 of 661 strings)
-
-Translated using Weblate (French)
-
-Currently translated at 96.3% (637 of 661 strings)
-
-Translated using Weblate (Turkish)
-
-Currently translated at 25.0% (1 of 4 strings)
-
-Translated using Weblate (Afrikaans)
-
-Currently translated at 30.4% (201 of 661 strings)
-
-Translated using Weblate (Turkish)
-
-Currently translated at 100.0% (661 of 661 strings)
-
-Translated using Weblate (Arabic (Levantine))
-
-Currently translated at 100.0% (661 of 661 strings)
-
-Translated using Weblate (Arabic (Levantine))
-
-Currently translated at 100.0% (661 of 661 strings)
-
-Translated using Weblate (Croatian)
-
-Currently translated at 100.0% (661 of 661 strings)
-
-Translated using Weblate (Arabic)
-
-Currently translated at 100.0% (661 of 661 strings)
-
-Translated using Weblate (Afrikaans)
-
-Currently translated at 100.0% (4 of 4 strings)
-
-Translated using Weblate (Arabic (Levantine))
-
-Currently translated at 68.3% (452 of 661 strings)
-
-Translated using Weblate (Spanish)
-
-Currently translated at 100.0% (661 of 661 strings)
-
-Translated using Weblate (Czech)
-
-Currently translated at 100.0% (661 of 661 strings)
-
-Translated using Weblate (Arabic (Levantine))
-
-Currently translated at 56.8% (372 of 654 strings)
-
-Translated using Weblate (Hindi)
-
-Currently translated at 38.3% (251 of 654 strings)
-
-Translated using Weblate (Arabic (Levantine))
-
-Currently translated at 52.4% (343 of 654 strings)
-
-Translated using Weblate (Arabic (Levantine))
-
-Currently translated at 43.4% (284 of 654 strings)
-
-Translated using Weblate (Arabic (Levantine))
-
-Currently translated at 42.2% (276 of 654 strings)
-
-Translated using Weblate (Arabic (Levantine))
-
-Currently translated at 39.6% (259 of 654 strings)
-
-Translated using Weblate (Indonesian)
-
-Currently translated at 100.0% (654 of 654 strings)
-
-Added translation using Weblate (Afrikaans)
-
-Translated using Weblate (German)
-
-Currently translated at 99.5% (651 of 654 strings)
-
-Translated using Weblate (Croatian)
-
-Currently translated at 100.0% (654 of 654 strings)
-
-Translated using Weblate (Ukrainian)
-
-Currently translated at 100.0% (654 of 654 strings)
-
-Translated using Weblate (Spanish)
-
-Currently translated at 100.0% (654 of 654 strings)
-
-Translated using Weblate (Czech)
-
-Currently translated at 100.0% (654 of 654 strings)
-
-Co-authored-by: Alexthegib &lt;traducoes@skiff.com&gt;
-Co-authored-by: Anarchydr &lt;patrikpik879@gmail.com&gt;
-Co-authored-by: Clxff H3r4ld0 &lt;123844876+clxf12@users.noreply.github.com&gt;
-Co-authored-by: Fjuro &lt;ifjuro@proton.me&gt;
-Co-authored-by: Fqwe1 &lt;Fqwe1@users.noreply.hosted.weblate.org&gt;
-Co-authored-by: Guillaume THOMAS &lt;t.guillaume319@laposte.net&gt;
-Co-authored-by: Hosted Weblate &lt;hosted@weblate.org&gt;
-Co-authored-by: Jay Jay Cabugat &lt;cabugatjayjay@gmail.com&gt;
-Co-authored-by: Leon de Klerk &lt;deklerkleon5@gmail.com&gt;
-Co-authored-by: LiJu09 &lt;lisojuraj@gmail.com&gt;
-Co-authored-by: LiberiBg &lt;matheo.ngn@gmail.com&gt;
-Co-authored-by: Luna712 &lt;hanstavo1@gmail.com&gt;
-Co-authored-by: Murat Han &lt;murathancw@gmail.com&gt;
-Co-authored-by: Nepx &lt;anandabaskara@outlook.com&gt;
-Co-authored-by: Pizza Party &lt;paol.m@proton.me&gt;
-Co-authored-by: Ranforingus &lt;ranforingus@hotmail.com&gt;
-Co-authored-by: Rex_sa &lt;rex.sa@pm.me&gt;
-Co-authored-by: Sam Cooper &lt;samcooper838@gmail.com&gt;
-Co-authored-by: Samiul Islam &lt;samiulislamsharan@gmail.com&gt;
-Co-authored-by: SehrGuterCode &lt;philemonpfeiffer@gmail.com&gt;
-Co-authored-by: gallegonovato &lt;fran-carro@hotmail.es&gt;
-Co-authored-by: maxim &lt;maximtested@gmail.com&gt;
-Co-authored-by: ngocanhtve &lt;ngocanh.tve@gmail.com&gt;
-Co-authored-by: 跨性别 &lt;github@lgbt.sh&gt;
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/af/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/apc/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/ar/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/ars/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/bn/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/cs/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/de/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/es/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/fr/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/hi/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/hr/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/id/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/ja/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/nl/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/pt/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/ru/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/sk/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/tr/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/uk/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/app/vi/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/fastlane/af/
-Translate-URL: https://hosted.weblate.org/projects/cloudstream/fastlane/tr/
-Translation: Cloudstream/App
-Translation: Cloudstream/Fastlane</div>
                                     </div>
                                 </div>
                             </section>
@@ -3486,7 +3108,7 @@ Translation: Cloudstream/Fastlane</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 612k out of 56.3m repositories</span>
+                                    <span class="gh">ranked 612k out of 55.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 46 stars</div>
                             </div>
@@ -3532,7 +3154,7 @@ Translation: Cloudstream/Fastlane</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.82m out of 56.3m repositories</span>
+                                    <span class="gh">ranked 1.82m out of 55.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -3653,7 +3275,7 @@ Translation: Cloudstream/Fastlane</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2024, 08:06:14 (timezone Asia/Kathmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jan 2024, 08:55:09 (timezone Asia/Kathmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
