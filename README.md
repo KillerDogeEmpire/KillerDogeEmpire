@@ -30,10 +30,3 @@
 </p>
 
 </h1>
-
-
-<details align="center">
-<summary>GitHub Metrics</summary>
-<img src="./github-metrics.svg">
-
-</details>
